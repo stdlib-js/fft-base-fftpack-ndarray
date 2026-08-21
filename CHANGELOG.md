@@ -39,6 +39,7 @@
 
 <details>
 
+-   [`c5d553b`](https://github.com/stdlib-js/stdlib/commit/c5d553b67e4bd6497dc2b99ee8787b54b1e3e761) - **docs:** update namespace table of contents [(#14465)](https://github.com/stdlib-js/stdlib/pull/14465) _(by stdlib-bot)_
 -   [`0bb4e52`](https://github.com/stdlib-js/stdlib/commit/0bb4e5246b331085ed7828f2df71708e64156f41) - **chore:** clean-up [(#14443)](https://github.com/stdlib-js/stdlib/pull/14443) _(by Philipp Burckhardt)_
 -   [`1fadbac`](https://github.com/stdlib-js/stdlib/commit/1fadbacd16ab714985abb759fcb3989f16b5dc16) - **feat:** add `fft/base/fftpack/ndarray` namespace _(by Athan Reines)_
 -   [`9154a91`](https://github.com/stdlib-js/stdlib/commit/9154a91779deb48c7048b11704fe54fa2c9786d4) - **docs:** update description _(by Athan Reines)_
