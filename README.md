@@ -76,6 +76,7 @@ var o = ns;
 
 <div class="namespace-toc">
 
+-   <span class="signature">[`float64`][@stdlib/fft/base/fftpack/ndarray/float64]</span><span class="delimiter">: </span><span class="description">lower-level ndarray wrappers for double-precision floating-point FFTPACK fast Fourier transform routines.</span>
 -   <span class="signature">[`generic`][@stdlib/fft/base/fftpack/ndarray/generic]</span><span class="delimiter">: </span><span class="description">lower-level ndarray wrappers for generic FFTPACK fast Fourier transform routines.</span>
 
 </div>
@@ -186,6 +187,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/fft-base-fftpack-ndarray/main/LICENSE
 
 <!-- <toc-links> -->
+
+[@stdlib/fft/base/fftpack/ndarray/float64]: https://github.com/stdlib-js/fft-base-fftpack-ndarray-float64
 
 [@stdlib/fft/base/fftpack/ndarray/generic]: https://github.com/stdlib-js/fft-base-fftpack-ndarray-generic
 

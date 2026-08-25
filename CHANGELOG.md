@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-23)
+## Unreleased (2026-08-25)
 
 <section class="features">
 
 ### Features
 
+-   [`194dcbd`](https://github.com/stdlib-js/stdlib/commit/194dcbd266142900261e3170298936aecbddceec) - update `fft/base/fftpack/ndarray` TypeScript declarations [(#14582)](https://github.com/stdlib-js/stdlib/pull/14582)
 -   [`24bc778`](https://github.com/stdlib-js/stdlib/commit/24bc778d5d4046b21bca6f71aa677433996d50ae) - add `float64` to namespace
 -   [`1b645c2`](https://github.com/stdlib-js/stdlib/commit/1b645c26a16216567334bc25dded1f18d0680a3b) - add `fft/base/fftpack/ndarray/float64` namespace
 -   [`f5cb262`](https://github.com/stdlib-js/stdlib/commit/f5cb26250ebd309d0d7bf6d3517f60aec7a651e6) - update `fft/base/fftpack/ndarray/generic` TypeScript declarations [(#14550)](https://github.com/stdlib-js/stdlib/pull/14550)
@@ -46,6 +47,8 @@
 
 <details>
 
+-   [`194dcbd`](https://github.com/stdlib-js/stdlib/commit/194dcbd266142900261e3170298936aecbddceec) - **feat:** update `fft/base/fftpack/ndarray` TypeScript declarations [(#14582)](https://github.com/stdlib-js/stdlib/pull/14582) _(by stdlib-bot)_
+-   [`09f72aa`](https://github.com/stdlib-js/stdlib/commit/09f72aaa0ca90f3f4c9a7b6b9b8ad492e05ef7b9) - **docs:** update namespace table of contents [(#14584)](https://github.com/stdlib-js/stdlib/pull/14584) _(by stdlib-bot)_
 -   [`24bc778`](https://github.com/stdlib-js/stdlib/commit/24bc778d5d4046b21bca6f71aa677433996d50ae) - **feat:** add `float64` to namespace _(by Athan Reines)_
 -   [`1b645c2`](https://github.com/stdlib-js/stdlib/commit/1b645c26a16216567334bc25dded1f18d0680a3b) - **feat:** add `fft/base/fftpack/ndarray/float64` namespace _(by Athan Reines)_
 -   [`86cd981`](https://github.com/stdlib-js/stdlib/commit/86cd981199dc115e9b7484131436c802c3d9a090) - **docs:** update namespace table of contents [(#14552)](https://github.com/stdlib-js/stdlib/pull/14552) _(by stdlib-bot)_
