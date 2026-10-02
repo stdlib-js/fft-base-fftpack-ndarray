@@ -52,6 +52,7 @@
     "@stdlib/fft-base-fftpack-float64-cosqi": "github:stdlib-js/fft-base-fftpack-float64-cosqi#main",
     "@stdlib/fft-base-fftpack-float64-rfftf": "github:stdlib-js/fft-base-fftpack-float64-rfftf#main",
     "@stdlib/fft-base-fftpack-float64-rffti": "github:stdlib-js/fft-base-fftpack-float64-rffti#main",
+    "@stdlib/fft-base-fftpack-float64-sinqi": "github:stdlib-js/fft-base-fftpack-float64-sinqi#main",
     "@stdlib/fft-base-fftpack-generic-cffti": "github:stdlib-js/fft-base-fftpack-generic-cffti#main",
     "@stdlib/fft-base-fftpack-generic-cosqi": "github:stdlib-js/fft-base-fftpack-generic-cosqi#main",
     "@stdlib/fft-base-fftpack-generic-rfftf": "github:stdlib-js/fft-base-fftpack-generic-rfftf#main",
