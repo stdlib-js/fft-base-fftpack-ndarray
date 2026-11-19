@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-02)
+## Unreleased (2026-11-19)
 
 <section class="features">
 
@@ -64,6 +64,8 @@
 
 <details>
 
+-   [`62f4966`](https://github.com/stdlib-js/stdlib/commit/62f49668bfba6400506faf29ed1c142ed9d78365) - **test:** read integer factors via `Uint32Array` view [(#16523)](https://github.com/stdlib-js/stdlib/pull/16523) _(by Philipp Burckhardt, Gunj Joshi)_
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`b148910`](https://github.com/stdlib-js/stdlib/commit/b1489107d073efb157547f41a2ea54406acae91a) - **feat:** add `fft/base/fftpack/ndarray/float64/sinqi` [(#14284)](https://github.com/stdlib-js/stdlib/pull/14284) _(by Gunj Joshi)_
 -   [`fcf7dc0`](https://github.com/stdlib-js/stdlib/commit/fcf7dc067b75cb36247d5e1ecd260a111928595e) - **feat:** update `fft/base/fftpack/ndarray` TypeScript declarations [(#15583)](https://github.com/stdlib-js/stdlib/pull/15583) _(by stdlib-bot)_
 -   [`8e0799e`](https://github.com/stdlib-js/stdlib/commit/8e0799ea1f7bb35806f5b3b15da7a02677b7bc0d) - **feat:** update `fft/base/fftpack/ndarray/float64` TypeScript declarations [(#15582)](https://github.com/stdlib-js/stdlib/pull/15582) _(by stdlib-bot)_
